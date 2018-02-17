@@ -1,0 +1,2 @@
+#!/bin/sh
+var/bin/python -m gnome.cli
